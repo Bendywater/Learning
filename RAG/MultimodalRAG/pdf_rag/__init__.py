@@ -1,0 +1,1 @@
+"""Standard PDF RAG pipeline."""
