@@ -1,0 +1,15 @@
+LR_Tree/data/raw/creditcard.csv
+LR_Tree/data/raw/creditcard.csv.zip
+
+# Local Python environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Large local datasets
+Electric-Load-Forecasting/data/raw/electricityloaddiagrams20112014.zip
